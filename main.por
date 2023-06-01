@@ -5,5 +5,11 @@ programa {
 		inteiro a = 0
 		
 	}
+	
+	funcao imprimirBob(){
+	
+		escreva("Bob\n")
+	
+	}
 
 }
