@@ -11,5 +11,11 @@ programa {
 		escreva("Bob\n")
 	
 	}
+	
+	funcao imprimirAlice() {
+	
+		escreva("Alice\n")
+	
+	}
 
 }
